@@ -1,0 +1,3 @@
+AttributeError in file /cellar/users/yumei/Documents/nlp_mRNA/experimental_RNAseq_analysis/mouse_lji_110623_analysis/analysis_code/snakefile, line 13:
+'Wildcards' object has no attribute '_0'
+  File "/cellar/users/yumei/Documents/nlp_mRNA/experimental_RNAseq_analysis/mouse_lji_110623_analysis/analysis_code/snakefile", line 13, in <module>
